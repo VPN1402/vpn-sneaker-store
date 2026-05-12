@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://vpn-sneaker-store.vercel.app/sitemap.xml
